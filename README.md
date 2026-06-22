@@ -11,14 +11,12 @@ Content creators often struggle with the manual effort required to organize cont
 ## 2. Solution Overview
 The application is built using Streamlit for a responsive user interface and integrates the Groq API to provide fast, real-time AI suggestions for content generation.
 
-## 3. Live Demo
-https://youtu.be/Zrz5GSB_9Fo
 
-## 4. AI Tools Used
+## 3. AI Tools Used
 * **Streamlit**: Used for the web application interface.
 * **Groq API**: Used for fast and efficient AI response generation.
 
-## 5. Learnings
+## 4. Learnings
 Throughout the development of this project, I have learned:
 * How to manage and integrate API keys securely using environment variables.
 * Best practices for version control and repository management using Git and GitHub.
