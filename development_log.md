@@ -1,7 +1,7 @@
 # Development Log
 
 ## 1. AI Coding Assistant Used
-* I used Gemini as my AI coding assistant for this project.
+* I used chatgpt and claude as my AI coding assistant for this project.
 
 ## 2. AI Model Used
 * I used Gemini's latest model capabilities to generate and debug code.
